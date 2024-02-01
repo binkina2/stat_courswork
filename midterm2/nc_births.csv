@@ -1,0 +1,965 @@
+mother_age,mature,weeks,visits,marital,gained,weight,gender,habit
+13,younger mom,39,10,not married,38,7.63,male,nonsmoker
+14,younger mom,42,15,not married,20,7.88,male,nonsmoker
+15,younger mom,37,11,not married,38,6.63,female,nonsmoker
+15,younger mom,41,6,not married,34,8,male,nonsmoker
+15,younger mom,39,9,not married,27,6.38,female,nonsmoker
+15,younger mom,38,19,not married,22,5.38,male,nonsmoker
+15,younger mom,37,12,not married,76,8.44,male,nonsmoker
+15,younger mom,35,5,not married,15,4.69,male,nonsmoker
+16,younger mom,37,13,not married,52,6.94,female,nonsmoker
+16,younger mom,45,9,not married,28,7.44,male,nonsmoker
+16,younger mom,42,8,not married,34,8.81,female,nonsmoker
+16,younger mom,40,4,not married,12,6,female,nonsmoker
+16,younger mom,38,12,not married,30,7.13,female,nonsmoker
+16,younger mom,38,15,not married,75,7.56,female,smoker
+16,younger mom,40,7,not married,35,6.88,male,smoker
+16,younger mom,40,12,not married,9,5.81,female,smoker
+16,younger mom,24,5,not married,12,1.5,male,nonsmoker
+17,younger mom,40,8,not married,20,8.25,female,nonsmoker
+17,younger mom,37,10,not married,39,6.19,female,nonsmoker
+17,younger mom,39,10,not married,40,7,male,nonsmoker
+17,younger mom,40,17,not married,38,7.19,male,nonsmoker
+17,younger mom,39,9,not married,36,6,male,nonsmoker
+17,younger mom,40,15,not married,20,7.63,female,nonsmoker
+17,younger mom,38,11,not married,30,9.5,female,nonsmoker
+17,younger mom,38,12,not married,30,5.56,female,nonsmoker
+17,younger mom,39,12,not married,50,7.5,male,nonsmoker
+17,younger mom,40,10,not married,68,7.44,male,nonsmoker
+17,younger mom,39,12,not married,27,7.56,male,nonsmoker
+17,younger mom,38,12,not married,22,6.06,male,nonsmoker
+17,younger mom,42,8,not married,72,7.44,male,smoker
+17,younger mom,36,15,not married,25,7,male,nonsmoker
+17,younger mom,29,6,not married,35,4.56,male,nonsmoker
+17,younger mom,29,4,not married,10,2.63,female,nonsmoker
+17,younger mom,35,3,not married,30,6.38,male,nonsmoker
+17,younger mom,35,12,not married,25,7.25,male,nonsmoker
+17,younger mom,31,6,not married,1,1.56,female,nonsmoker
+18,younger mom,42,15,not married,27,7.44,male,nonsmoker
+18,younger mom,38,15,not married,30,6,female,nonsmoker
+18,younger mom,41,10,not married,11,6.5,female,nonsmoker
+18,younger mom,43,8,not married,50,7.31,female,nonsmoker
+18,younger mom,41,6,not married,41,7.88,male,nonsmoker
+18,younger mom,40,6,married,20,6.19,male,nonsmoker
+18,younger mom,38,6,not married,48,7,female,nonsmoker
+18,younger mom,37,6,married,35,5.81,female,nonsmoker
+18,younger mom,38,16,not married,40,7.44,female,nonsmoker
+18,younger mom,41,10,not married,30,7.75,male,nonsmoker
+18,younger mom,40,15,married,57,8,female,nonsmoker
+18,younger mom,40,11,not married,28,6.63,female,nonsmoker
+18,younger mom,38,13,not married,60,8.31,male,nonsmoker
+18,younger mom,40,13,not married,10,5.5,female,nonsmoker
+18,younger mom,42,11,not married,35,7.81,female,nonsmoker
+18,younger mom,41,9,not married,18,7,female,nonsmoker
+18,younger mom,37,15,not married,23,7.31,male,nonsmoker
+18,younger mom,39,8,not married,26,9.06,male,nonsmoker
+18,younger mom,38,14,married,56,5.88,female,nonsmoker
+18,younger mom,39,11,not married,60,6.63,female,nonsmoker
+18,younger mom,41,13,not married,28,9.06,male,nonsmoker
+18,younger mom,40,12,not married,13,8.75,male,nonsmoker
+18,younger mom,39,14,not married,23,7.06,female,nonsmoker
+18,younger mom,39,0,not married,15,6.88,male,nonsmoker
+18,younger mom,40,14,married,47,7.06,female,smoker
+18,younger mom,38,15,not married,50,8.06,female,smoker
+18,younger mom,44,15,not married,17,7.44,male,smoker
+18,younger mom,41,17,married,33,7.88,male,smoker
+18,younger mom,37,8,not married,25,6.19,male,smoker
+18,younger mom,36,18,not married,20,6.19,female,nonsmoker
+18,younger mom,33,9,not married,4,4.44,male,nonsmoker
+18,younger mom,36,8,not married,10,5.5,male,nonsmoker
+18,younger mom,33,7,not married,40,1.69,male,smoker
+19,younger mom,39,10,not married,22,7.88,male,nonsmoker
+19,younger mom,39,12,not married,50,7.5,male,nonsmoker
+19,younger mom,40,11,not married,16,7.88,female,nonsmoker
+19,younger mom,40,15,married,30,5.94,male,nonsmoker
+19,younger mom,41,12,not married,0,8.56,male,nonsmoker
+19,younger mom,40,11,married,23,9.25,female,nonsmoker
+19,younger mom,38,15,not married,30,7.69,male,nonsmoker
+19,younger mom,39,10,not married,35,5.94,male,nonsmoker
+19,younger mom,42,10,not married,25,9.5,female,nonsmoker
+19,younger mom,37,18,married,46,6.06,female,nonsmoker
+19,younger mom,38,6,not married,40,6.94,male,nonsmoker
+19,younger mom,40,12,not married,36,8.19,male,nonsmoker
+19,younger mom,38,17,not married,51,6.75,female,nonsmoker
+19,younger mom,41,15,not married,55,6.25,male,nonsmoker
+19,younger mom,40,4,not married,55,8,female,nonsmoker
+19,younger mom,41,15,not married,25,8.31,male,nonsmoker
+19,younger mom,39,9,not married,35,7.75,male,nonsmoker
+19,younger mom,37,8,not married,35,4.69,female,nonsmoker
+19,younger mom,43,2,not married,27,5.38,female,nonsmoker
+19,younger mom,41,13,not married,38,8.38,female,nonsmoker
+19,younger mom,39,15,not married,38,6.88,male,nonsmoker
+19,younger mom,38,3,not married,36,6.75,female,smoker
+19,younger mom,37,0,not married,12,6.94,male,smoker
+19,younger mom,39,11,not married,48,8.38,female,smoker
+19,younger mom,39,7,not married,0,7.31,male,smoker
+19,younger mom,40,16,not married,37,7.94,male,smoker
+19,younger mom,41,13,not married,47,8.38,male,smoker
+19,younger mom,34,0,not married,20,5.88,female,nonsmoker
+19,younger mom,22,5,not married,20,1.38,female,nonsmoker
+19,younger mom,32,5,married,32,6.5,female,nonsmoker
+19,younger mom,36,9,not married,5,6.31,female,nonsmoker
+19,younger mom,35,12,not married,50,5.25,female,nonsmoker
+19,younger mom,36,10,married,35,7.25,male,nonsmoker
+19,younger mom,36,12,not married,24,6.19,female,smoker
+20,younger mom,39,14,married,25,9.94,male,nonsmoker
+20,younger mom,40,9,married,30,7.31,male,nonsmoker
+20,younger mom,39,16,not married,35,5.63,female,nonsmoker
+20,younger mom,38,15,not married,35,6.5,male,nonsmoker
+20,younger mom,40,14,married,23,5.63,female,nonsmoker
+20,younger mom,38,15,not married,30,6.31,female,nonsmoker
+20,younger mom,40,11,not married,50,9.56,male,nonsmoker
+20,younger mom,39,16,not married,19,5.44,female,nonsmoker
+20,younger mom,37,10,not married,18,6.75,male,nonsmoker
+20,younger mom,40,15,not married,46,8.38,male,nonsmoker
+20,younger mom,38,14,not married,24,7.19,female,nonsmoker
+20,younger mom,41,16,not married,35,7.19,male,nonsmoker
+20,younger mom,41,14,married,29,6.06,female,nonsmoker
+20,younger mom,40,3,married,18,7.19,female,nonsmoker
+20,younger mom,39,0,not married,70,5.94,female,nonsmoker
+20,younger mom,42,15,married,35,8.56,male,nonsmoker
+20,younger mom,39,8,not married,23,6.69,male,nonsmoker
+20,younger mom,38,14,married,20,7.5,female,nonsmoker
+20,younger mom,40,12,married,14,7.44,female,nonsmoker
+20,younger mom,39,10,not married,35,7.88,male,nonsmoker
+20,younger mom,38,10,married,50,8.75,female,nonsmoker
+20,younger mom,41,15,not married,60,7.44,male,nonsmoker
+20,younger mom,39,16,not married,18,7.44,female,nonsmoker
+20,younger mom,37,23,married,40,6.38,female,nonsmoker
+20,younger mom,38,10,not married,40,8.81,male,nonsmoker
+20,younger mom,41,13,not married,27,7,male,nonsmoker
+20,younger mom,38,9,not married,25,7.19,female,nonsmoker
+20,younger mom,37,12,married,22,5.94,female,nonsmoker
+20,younger mom,38,8,married,35,6.75,male,nonsmoker
+20,younger mom,40,10,not married,28,8.13,male,nonsmoker
+20,younger mom,41,12,not married,20,7.13,female,nonsmoker
+20,younger mom,43,10,married,10,6.88,female,nonsmoker
+20,younger mom,38,13,married,35,8.44,male,nonsmoker
+20,younger mom,38,12,not married,25,8.31,male,nonsmoker
+20,younger mom,39,13,not married,33,7.25,male,nonsmoker
+20,younger mom,38,15,married,31,6.06,female,nonsmoker
+20,younger mom,38,8,married,34,5.75,female,nonsmoker
+20,younger mom,38,7,not married,52,6.75,male,nonsmoker
+20,younger mom,38,12,not married,45,8.06,male,nonsmoker
+20,younger mom,41,11,married,52,9,female,nonsmoker
+20,younger mom,39,13,not married,25,6.25,female,nonsmoker
+20,younger mom,40,7,not married,25,7.06,male,nonsmoker
+20,younger mom,41,11,not married,47,8,female,nonsmoker
+20,younger mom,37,5,not married,19,8.31,female,nonsmoker
+20,younger mom,42,11,not married,45,7.75,male,nonsmoker
+20,younger mom,38,8,married,45,7.44,female,nonsmoker
+20,younger mom,43,11,not married,55,8.44,male,nonsmoker
+20,younger mom,39,15,not married,41,8.25,male,smoker
+20,younger mom,37,8,not married,27,6.69,female,smoker
+20,younger mom,39,12,married,55,5.25,female,smoker
+20,younger mom,41,16,married,21,6.31,female,smoker
+20,younger mom,41,12,not married,24,7.5,female,smoker
+20,younger mom,42,30,not married,23,7.44,female,smoker
+20,younger mom,40,17,not married,39,9.06,male,smoker
+20,younger mom,39,15,not married,70,7.38,female,smoker
+20,younger mom,37,10,not married,26,5.38,female,smoker
+20,younger mom,35,20,married,35,6.94,male,nonsmoker
+20,younger mom,35,7,not married,30,4.5,male,nonsmoker
+20,younger mom,33,0,married,23,6.38,female,nonsmoker
+20,younger mom,36,15,not married,20,7.63,male,nonsmoker
+20,younger mom,34,13,not married,6,4.5,male,nonsmoker
+20,younger mom,33,9,not married,18,4.94,female,nonsmoker
+20,younger mom,36,10,not married,32,6.13,female,nonsmoker
+20,younger mom,34,14,married,13,4.13,male,smoker
+20,younger mom,32,5,not married,40,2.69,male,smoker
+21,younger mom,38,12,married,47,7.75,female,nonsmoker
+21,younger mom,38,7,married,40,8.38,female,nonsmoker
+21,younger mom,39,14,not married,2,6.81,male,nonsmoker
+21,younger mom,41,18,not married,62,6,male,nonsmoker
+21,younger mom,39,10,married,18,9.56,male,nonsmoker
+21,younger mom,40,11,married,58,7.56,female,nonsmoker
+21,younger mom,40,10,married,25,7.44,male,nonsmoker
+21,younger mom,38,12,not married,40,7.38,male,nonsmoker
+21,younger mom,41,8,married,26,5.94,female,nonsmoker
+21,younger mom,40,15,not married,22,6.94,female,nonsmoker
+21,younger mom,39,14,married,28,6.94,male,nonsmoker
+21,younger mom,38,14,not married,36,6.38,female,nonsmoker
+21,younger mom,43,15,married,17,7.19,female,nonsmoker
+21,younger mom,40,15,married,38,7.63,female,nonsmoker
+21,younger mom,41,12,not married,32,8.38,male,nonsmoker
+21,younger mom,44,11,married,15,7.5,female,nonsmoker
+21,younger mom,41,13,married,40,7.88,female,nonsmoker
+21,younger mom,41,10,not married,60,7.63,female,nonsmoker
+21,younger mom,39,18,married,13,7.75,female,nonsmoker
+21,younger mom,37,19,not married,30,5.44,female,nonsmoker
+21,younger mom,38,10,married,35,6.5,female,nonsmoker
+21,younger mom,39,8,not married,32,8.06,male,nonsmoker
+21,younger mom,39,8,not married,27,6.75,female,nonsmoker
+21,younger mom,40,15,not married,37,8.19,male,nonsmoker
+21,younger mom,37,5,married,30,5.88,female,nonsmoker
+21,younger mom,39,10,not married,55,8.06,male,nonsmoker
+21,younger mom,40,16,married,26,6.88,female,nonsmoker
+21,younger mom,41,10,not married,40,9.06,male,nonsmoker
+21,younger mom,39,20,married,30,7.13,male,nonsmoker
+21,younger mom,38,9,not married,23,8.13,female,nonsmoker
+21,younger mom,38,10,married,12,6.75,female,nonsmoker
+21,younger mom,40,10,not married,29,7.88,male,nonsmoker
+21,younger mom,38,14,married,0,7.69,male,nonsmoker
+21,younger mom,38,16,married,30,7.69,female,smoker
+21,younger mom,38,5,not married,0,6.38,male,smoker
+21,younger mom,45,10,married,40,9.13,male,smoker
+21,younger mom,38,11,married,41,8.31,male,smoker
+21,younger mom,37,15,not married,20,5.06,female,smoker
+21,younger mom,39,10,not married,56,8.63,male,smoker
+21,younger mom,34,15,not married,16,5.44,male,nonsmoker
+21,younger mom,34,12,not married,25,5.81,female,nonsmoker
+21,younger mom,36,10,not married,25,4.25,male,nonsmoker
+21,younger mom,36,12,married,65,9.88,female,nonsmoker
+21,younger mom,36,15,not married,10,6.81,male,nonsmoker
+21,younger mom,29,4,not married,13,2.5,female,nonsmoker
+21,younger mom,36,3,not married,16,5.94,male,nonsmoker
+21,younger mom,35,15,married,31,7.56,female,nonsmoker
+21,younger mom,35,8,married,40,4.63,female,nonsmoker
+21,younger mom,35,9,married,15,5.5,female,smoker
+22,younger mom,37,10,not married,50,7.25,female,nonsmoker
+22,younger mom,42,7,not married,21,6.5,female,nonsmoker
+22,younger mom,39,11,married,34,8.19,female,nonsmoker
+22,younger mom,40,12,married,24,6.75,female,nonsmoker
+22,younger mom,39,10,not married,20,8,male,nonsmoker
+22,younger mom,39,12,not married,32,8.38,male,nonsmoker
+22,younger mom,40,10,not married,23,8.25,male,nonsmoker
+22,younger mom,39,14,married,11,6.88,male,nonsmoker
+22,younger mom,39,15,not married,45,7.5,male,nonsmoker
+22,younger mom,40,14,married,32,7.5,male,nonsmoker
+22,younger mom,41,12,married,20,8.44,male,nonsmoker
+22,younger mom,39,10,not married,45,7.94,female,nonsmoker
+22,younger mom,39,11,married,35,9,male,nonsmoker
+22,younger mom,41,18,not married,1,7.5,female,nonsmoker
+22,younger mom,41,11,married,31,7.69,female,nonsmoker
+22,younger mom,37,10,not married,17,7.19,female,nonsmoker
+22,younger mom,40,15,not married,15,7.25,female,nonsmoker
+22,younger mom,43,15,married,26,7.44,female,nonsmoker
+22,younger mom,39,9,married,32,7.69,male,nonsmoker
+22,younger mom,41,13,not married,28,7.81,female,nonsmoker
+22,younger mom,38,6,married,10,5.44,male,nonsmoker
+22,younger mom,37,14,married,56,7,male,nonsmoker
+22,younger mom,37,8,not married,23,7.69,female,nonsmoker
+22,younger mom,41,15,married,9,10.19,male,nonsmoker
+22,younger mom,38,6,not married,45,7.25,male,nonsmoker
+22,younger mom,39,11,married,35,9,male,nonsmoker
+22,younger mom,37,7,not married,39,5.88,female,nonsmoker
+22,younger mom,40,15,not married,31,7.06,female,nonsmoker
+22,younger mom,39,15,married,50,7.5,male,nonsmoker
+22,younger mom,39,15,married,80,8.56,female,nonsmoker
+22,younger mom,40,7,not married,25,7.38,male,nonsmoker
+22,younger mom,39,14,married,29,7.19,female,nonsmoker
+22,younger mom,39,16,not married,45,6,female,nonsmoker
+22,younger mom,40,10,not married,85,5.81,male,nonsmoker
+22,younger mom,39,8,not married,20,8,female,nonsmoker
+22,younger mom,37,10,married,30,6.38,male,nonsmoker
+22,younger mom,39,5,not married,10,7.19,female,nonsmoker
+22,younger mom,39,13,not married,37,8.38,male,nonsmoker
+22,younger mom,40,18,married,30,8.44,male,nonsmoker
+22,younger mom,40,14,not married,23,7.31,female,nonsmoker
+22,younger mom,42,16,married,36,7.31,male,nonsmoker
+22,younger mom,37,9,not married,41,6.25,male,smoker
+22,younger mom,37,15,married,20,7.81,male,smoker
+22,younger mom,38,20,not married,19,6.63,female,smoker
+22,younger mom,40,16,married,34,6.88,female,smoker
+22,younger mom,39,12,married,30,6.94,female,smoker
+22,younger mom,39,11,married,27,6,male,smoker
+22,younger mom,40,16,not married,18,7.81,male,smoker
+22,younger mom,40,18,not married,54,6.38,male,smoker
+22,younger mom,39,9,married,50,8.38,female,smoker
+22,younger mom,39,12,married,27,6.31,female,smoker
+22,younger mom,39,13,not married,38,7.13,male,smoker
+22,younger mom,40,13,married,0,6.5,male,smoker
+22,younger mom,32,8,not married,35,5,male,nonsmoker
+22,younger mom,35,12,married,30,4.69,male,nonsmoker
+22,younger mom,34,10,married,20,3.75,male,nonsmoker
+22,younger mom,34,13,married,35,5.88,female,nonsmoker
+22,younger mom,30,10,not married,25,2.69,male,nonsmoker
+22,younger mom,22,8,not married,10,1,female,nonsmoker
+23,younger mom,38,5,not married,28,7.19,female,nonsmoker
+23,younger mom,38,3,married,11,8.88,male,nonsmoker
+23,younger mom,42,9,married,22,8.81,male,nonsmoker
+23,younger mom,42,14,married,23,6.75,male,nonsmoker
+23,younger mom,44,14,not married,40,6.81,male,nonsmoker
+23,younger mom,37,12,married,30,6.44,female,nonsmoker
+23,younger mom,41,15,married,30,9.88,male,nonsmoker
+23,younger mom,38,15,married,29,6.88,female,nonsmoker
+23,younger mom,38,20,married,39,8.75,female,nonsmoker
+23,younger mom,39,13,married,30,6.69,female,nonsmoker
+23,younger mom,41,14,married,19,7.88,female,nonsmoker
+23,younger mom,39,14,married,36,5.88,male,nonsmoker
+23,younger mom,40,8,married,31,9,male,nonsmoker
+23,younger mom,41,15,married,25,7.75,female,nonsmoker
+23,younger mom,39,10,not married,30,6.06,male,nonsmoker
+23,younger mom,40,11,not married,12,7,male,nonsmoker
+23,younger mom,40,12,not married,13,5.38,male,nonsmoker
+23,younger mom,40,13,married,9,7.31,male,nonsmoker
+23,younger mom,38,10,married,20,8.44,female,nonsmoker
+23,younger mom,40,10,not married,47,7.63,male,nonsmoker
+23,younger mom,43,12,married,8,8.44,female,nonsmoker
+23,younger mom,38,10,not married,0,6.88,male,nonsmoker
+23,younger mom,38,12,not married,35,8.38,female,nonsmoker
+23,younger mom,40,14,married,28,8.38,male,nonsmoker
+23,younger mom,40,9,not married,24,7.63,female,nonsmoker
+23,younger mom,43,15,married,30,7.81,female,nonsmoker
+23,younger mom,43,15,not married,35,8.19,female,nonsmoker
+23,younger mom,40,10,not married,30,7.31,male,nonsmoker
+23,younger mom,37,10,not married,33,7.5,male,nonsmoker
+23,younger mom,37,6,not married,33,7.25,female,nonsmoker
+23,younger mom,39,15,married,30,7.13,female,nonsmoker
+23,younger mom,38,13,not married,22,7.81,female,nonsmoker
+23,younger mom,38,10,not married,54,8.69,male,nonsmoker
+23,younger mom,44,4,not married,55,8.13,female,smoker
+23,younger mom,39,15,married,56,7.31,male,smoker
+23,younger mom,41,10,married,40,7.31,female,smoker
+23,younger mom,39,11,not married,40,7.5,male,smoker
+23,younger mom,25,12,not married,60,1.19,female,nonsmoker
+23,younger mom,36,10,not married,62,5.88,female,nonsmoker
+23,younger mom,36,12,married,50,9.25,female,nonsmoker
+23,younger mom,32,13,not married,28,6.25,male,nonsmoker
+23,younger mom,36,18,not married,30,8.56,male,nonsmoker
+23,younger mom,36,11,married,15,5.13,female,nonsmoker
+23,younger mom,33,5,not married,30,5.44,male,nonsmoker
+23,younger mom,36,18,married,20,6.69,female,nonsmoker
+23,younger mom,36,12,married,30,6.44,male,nonsmoker
+23,younger mom,36,2,not married,27,5.88,female,nonsmoker
+23,younger mom,35,14,married,23,7.25,female,nonsmoker
+24,younger mom,38,16,not married,30,8.19,male,nonsmoker
+24,younger mom,38,9,married,35,5.94,female,nonsmoker
+24,younger mom,40,18,married,35,7.13,female,nonsmoker
+24,younger mom,39,15,married,40,6.69,female,nonsmoker
+24,younger mom,39,10,married,20,10.06,male,nonsmoker
+24,younger mom,38,7,not married,10,7.81,male,nonsmoker
+24,younger mom,37,15,married,40,8.19,female,nonsmoker
+24,younger mom,39,9,not married,15,7.31,female,nonsmoker
+24,younger mom,39,14,married,36,7.63,female,nonsmoker
+24,younger mom,40,11,married,8,7.69,female,nonsmoker
+24,younger mom,40,15,married,58,9,male,nonsmoker
+24,younger mom,37,12,married,45,5.88,female,nonsmoker
+24,younger mom,42,7,not married,30,7.13,female,nonsmoker
+24,younger mom,39,11,not married,41,8.75,male,nonsmoker
+24,younger mom,39,2,not married,10,6.5,female,nonsmoker
+24,younger mom,41,15,not married,20,8.38,female,nonsmoker
+24,younger mom,38,16,married,50,3.75,female,nonsmoker
+24,younger mom,38,15,married,20,7.44,male,nonsmoker
+24,younger mom,38,15,married,35,9.13,male,nonsmoker
+24,younger mom,39,14,married,18,7.31,female,nonsmoker
+24,younger mom,38,16,not married,15,6.31,female,nonsmoker
+24,younger mom,44,18,married,30,6.25,male,nonsmoker
+24,younger mom,37,12,married,28,8.5,male,nonsmoker
+24,younger mom,41,6,not married,60,8.31,male,nonsmoker
+24,younger mom,38,17,not married,13,6.56,female,nonsmoker
+24,younger mom,39,10,married,35,7.13,female,nonsmoker
+24,younger mom,39,10,married,35,5.94,male,nonsmoker
+24,younger mom,41,16,married,37,7.19,female,nonsmoker
+24,younger mom,40,12,married,46,6.88,male,nonsmoker
+24,younger mom,38,14,married,58,6.63,female,nonsmoker
+24,younger mom,38,12,not married,0,7.06,female,nonsmoker
+24,younger mom,39,20,not married,26,7.19,male,nonsmoker
+24,younger mom,38,15,married,21,6.94,female,nonsmoker
+24,younger mom,37,12,married,20,7.81,male,nonsmoker
+24,younger mom,40,15,married,29,8.5,female,nonsmoker
+24,younger mom,38,12,married,28,7.25,male,nonsmoker
+24,younger mom,40,11,not married,70,8.5,female,nonsmoker
+24,younger mom,40,12,married,29,7.06,female,smoker
+24,younger mom,38,11,not married,50,5.75,male,smoker
+24,younger mom,39,6,not married,30,6.13,female,smoker
+24,younger mom,41,12,married,40,8.13,male,smoker
+24,younger mom,39,8,married,23,6.88,female,smoker
+24,younger mom,37,5,married,34,7.38,male,smoker
+24,younger mom,40,12,not married,47,7.5,female,smoker
+24,younger mom,39,8,not married,22,5,female,smoker
+24,younger mom,36,12,married,12,5.81,male,nonsmoker
+24,younger mom,34,12,married,31,7.5,female,nonsmoker
+24,younger mom,35,3,not married,13,8.13,female,nonsmoker
+24,younger mom,34,7,not married,18,5.06,male,nonsmoker
+25,younger mom,41,14,not married,30,7.38,female,nonsmoker
+25,younger mom,37,11,not married,31,6.25,female,nonsmoker
+25,younger mom,38,11,not married,27,8.75,male,nonsmoker
+25,younger mom,39,16,married,0,6.94,female,nonsmoker
+25,younger mom,40,12,married,35,8.13,male,nonsmoker
+25,younger mom,40,15,not married,38,8.25,male,nonsmoker
+25,younger mom,41,12,married,20,8,female,nonsmoker
+25,younger mom,37,15,not married,20,6.31,male,nonsmoker
+25,younger mom,41,13,married,50,7.75,female,nonsmoker
+25,younger mom,37,13,married,50,7.75,male,nonsmoker
+25,younger mom,38,17,married,38,7.06,male,nonsmoker
+25,younger mom,38,18,married,20,7.88,male,nonsmoker
+25,younger mom,37,8,married,53,7.69,female,nonsmoker
+25,younger mom,40,15,not married,36,7.94,male,nonsmoker
+25,younger mom,39,14,married,20,6.88,male,nonsmoker
+25,younger mom,39,9,married,25,6.75,male,nonsmoker
+25,younger mom,39,18,married,28,7.94,male,nonsmoker
+25,younger mom,40,13,married,34,8.75,female,nonsmoker
+25,younger mom,40,14,not married,48,8.56,male,nonsmoker
+25,younger mom,41,14,married,27,7.38,female,nonsmoker
+25,younger mom,37,30,married,60,3.94,female,nonsmoker
+25,younger mom,40,14,married,47,8.75,female,nonsmoker
+25,younger mom,40,8,not married,18,8.19,male,nonsmoker
+25,younger mom,40,7,married,31,9.19,male,nonsmoker
+25,younger mom,38,9,not married,30,6.06,female,nonsmoker
+25,younger mom,40,11,married,26,7.44,male,nonsmoker
+25,younger mom,39,6,not married,40,7.38,female,nonsmoker
+25,younger mom,42,18,not married,33,8.06,female,nonsmoker
+25,younger mom,39,15,married,31,7.56,female,nonsmoker
+25,younger mom,38,6,married,50,6.88,male,nonsmoker
+25,younger mom,41,14,married,32,7.75,male,nonsmoker
+25,younger mom,39,10,married,29,7.63,female,nonsmoker
+25,younger mom,41,8,married,33,9.38,male,nonsmoker
+25,younger mom,38,22,married,35,8.31,female,nonsmoker
+25,younger mom,38,19,married,13,7.63,female,nonsmoker
+25,younger mom,39,12,married,41,6.88,female,nonsmoker
+25,younger mom,37,20,married,20,5.63,female,nonsmoker
+25,younger mom,40,15,married,32,8.38,female,nonsmoker
+25,younger mom,40,15,married,13,9,male,nonsmoker
+25,younger mom,38,12,married,24,8.75,female,nonsmoker
+25,younger mom,38,10,married,26,7.94,male,nonsmoker
+25,younger mom,40,10,married,25,7,male,nonsmoker
+25,younger mom,40,12,not married,44,5.81,female,smoker
+25,younger mom,39,5,married,37,6,female,smoker
+25,younger mom,37,14,married,33,7.31,female,smoker
+25,younger mom,39,15,not married,30,9.06,male,smoker
+25,younger mom,38,10,not married,35,5.94,female,smoker
+25,younger mom,40,8,not married,23,6.5,female,smoker
+25,younger mom,35,15,married,18,6.75,male,nonsmoker
+25,younger mom,36,8,not married,30,5.19,male,nonsmoker
+25,younger mom,29,10,not married,0,1.69,male,nonsmoker
+25,younger mom,35,0,not married,20,6.13,male,nonsmoker
+25,younger mom,34,11,married,40,7.13,male,smoker
+25,younger mom,35,15,married,40,4.5,male,smoker
+26,younger mom,38,14,married,32,6.88,female,nonsmoker
+26,younger mom,39,15,married,45,7.19,female,nonsmoker
+26,younger mom,40,14,not married,21,5.94,female,nonsmoker
+26,younger mom,38,15,married,27,9,male,nonsmoker
+26,younger mom,39,12,married,43,7.25,male,nonsmoker
+26,younger mom,41,12,not married,30,7.19,female,nonsmoker
+26,younger mom,39,15,married,25,6.94,female,nonsmoker
+26,younger mom,39,15,married,27,7.13,female,nonsmoker
+26,younger mom,39,15,married,35,7.56,female,nonsmoker
+26,younger mom,39,13,not married,55,8.25,female,nonsmoker
+26,younger mom,39,12,married,40,8.38,male,nonsmoker
+26,younger mom,42,15,not married,35,6.75,female,nonsmoker
+26,younger mom,39,11,not married,27,5.38,female,nonsmoker
+26,younger mom,40,13,not married,38,7.13,female,nonsmoker
+26,younger mom,38,14,married,38,8.75,female,nonsmoker
+26,younger mom,41,13,married,29,7.75,male,nonsmoker
+26,younger mom,40,12,married,38,8.44,male,nonsmoker
+26,younger mom,39,16,married,38,8,female,nonsmoker
+26,younger mom,40,15,not married,30,8.19,female,nonsmoker
+26,younger mom,38,12,married,25,7.94,female,nonsmoker
+26,younger mom,41,6,not married,0,7.38,female,nonsmoker
+26,younger mom,41,10,married,68,9.31,male,nonsmoker
+26,younger mom,40,15,married,24,8.88,male,nonsmoker
+26,younger mom,40,13,not married,35,8.06,female,nonsmoker
+26,younger mom,41,12,not married,20,7.06,male,nonsmoker
+26,younger mom,41,14,not married,19,6.56,female,nonsmoker
+26,younger mom,41,8,not married,39,8.19,male,nonsmoker
+26,younger mom,39,14,married,40,8.31,male,nonsmoker
+26,younger mom,39,6,not married,20,5.88,male,nonsmoker
+26,younger mom,41,20,not married,20,7.44,male,nonsmoker
+26,younger mom,40,12,not married,40,7.44,male,nonsmoker
+26,younger mom,40,4,not married,15,6.75,male,nonsmoker
+26,younger mom,43,9,married,23,7.44,female,nonsmoker
+26,younger mom,38,18,married,37,7.5,female,nonsmoker
+26,younger mom,37,16,not married,22,6.56,male,nonsmoker
+26,younger mom,40,15,married,55,7,female,nonsmoker
+26,younger mom,42,15,married,36,7.69,male,nonsmoker
+26,younger mom,38,14,not married,40,8,male,smoker
+26,younger mom,38,9,married,43,7.31,female,smoker
+26,younger mom,44,14,not married,25,9.13,male,smoker
+26,younger mom,40,8,married,38,7.13,male,smoker
+26,younger mom,39,12,married,31,7.31,male,smoker
+26,younger mom,42,15,not married,30,7.38,male,smoker
+26,younger mom,39,14,married,65,7.75,female,smoker
+26,younger mom,36,18,married,40,8,male,nonsmoker
+26,younger mom,31,20,not married,10,2.25,female,nonsmoker
+26,younger mom,36,10,not married,21,8.19,female,nonsmoker
+26,younger mom,33,10,married,13,3.44,male,nonsmoker
+26,younger mom,34,14,married,48,6.5,male,nonsmoker
+26,younger mom,32,18,not married,19,4,male,nonsmoker
+26,younger mom,36,4,married,0,7.5,male,nonsmoker
+27,younger mom,40,16,married,28,8,male,nonsmoker
+27,younger mom,41,14,married,58,8,male,nonsmoker
+27,younger mom,39,8,married,20,6.63,male,nonsmoker
+27,younger mom,40,14,married,36,6.75,female,nonsmoker
+27,younger mom,39,13,not married,61,7.44,male,nonsmoker
+27,younger mom,39,13,married,50,6.25,male,nonsmoker
+27,younger mom,38,12,married,31,6.56,female,nonsmoker
+27,younger mom,37,13,married,38,5.63,female,nonsmoker
+27,younger mom,38,11,married,14,4.56,female,nonsmoker
+27,younger mom,41,8,married,15,8.5,female,nonsmoker
+27,younger mom,39,10,married,37,8.88,male,nonsmoker
+27,younger mom,37,5,not married,15,6.25,male,nonsmoker
+27,younger mom,40,13,not married,3,7.06,female,nonsmoker
+27,younger mom,43,12,married,17,7.94,male,nonsmoker
+27,younger mom,39,5,not married,35,6.31,male,nonsmoker
+27,younger mom,39,9,not married,40,9.06,male,nonsmoker
+27,younger mom,39,14,married,43,9.13,male,nonsmoker
+27,younger mom,40,12,not married,21,7.06,female,nonsmoker
+27,younger mom,38,9,married,29,8.25,female,nonsmoker
+27,younger mom,40,11,not married,18,7.75,male,nonsmoker
+27,younger mom,40,15,married,40,8.25,male,nonsmoker
+27,younger mom,37,14,married,48,5.75,female,nonsmoker
+27,younger mom,39,16,married,25,7.69,female,nonsmoker
+27,younger mom,41,10,not married,20,6.69,male,nonsmoker
+27,younger mom,37,13,married,50,7.75,male,nonsmoker
+27,younger mom,37,10,not married,37,6.81,female,nonsmoker
+27,younger mom,43,11,married,30,6.56,female,nonsmoker
+27,younger mom,40,10,not married,24,9.63,female,nonsmoker
+27,younger mom,38,14,married,22,8.25,male,nonsmoker
+27,younger mom,39,14,married,31,7.56,female,nonsmoker
+27,younger mom,39,16,married,34,7.19,male,nonsmoker
+27,younger mom,39,8,not married,12,7.25,female,smoker
+27,younger mom,38,12,not married,40,6.25,male,smoker
+27,younger mom,39,16,married,24,8.88,male,smoker
+27,younger mom,39,12,married,58,8.56,male,smoker
+27,younger mom,39,15,not married,42,6.75,female,smoker
+27,younger mom,39,11,married,23,7.56,female,smoker
+27,younger mom,39,11,married,5,7.81,male,smoker
+27,younger mom,39,15,married,22,8.38,male,smoker
+27,younger mom,41,15,married,38,7,male,smoker
+27,younger mom,34,15,married,30,7.69,female,nonsmoker
+27,younger mom,25,10,not married,30,1.38,male,nonsmoker
+27,younger mom,32,17,not married,20,4.06,female,nonsmoker
+27,younger mom,35,10,married,19,7.38,male,nonsmoker
+27,younger mom,36,11,not married,14,5.56,male,nonsmoker
+27,younger mom,33,6,married,18,4.75,male,smoker
+28,younger mom,40,13,not married,0,7.44,female,nonsmoker
+28,younger mom,44,17,married,32,6.75,female,nonsmoker
+28,younger mom,39,15,married,40,8.38,male,nonsmoker
+28,younger mom,40,5,not married,31,7.81,female,nonsmoker
+28,younger mom,39,22,married,21,8.13,male,nonsmoker
+28,younger mom,39,16,not married,35,8.06,male,nonsmoker
+28,younger mom,39,12,married,47,7.38,male,nonsmoker
+28,younger mom,40,15,married,45,9.25,male,nonsmoker
+28,younger mom,40,15,married,28,7.63,female,nonsmoker
+28,younger mom,40,15,married,0,8.38,male,nonsmoker
+28,younger mom,39,13,not married,0,7.5,female,nonsmoker
+28,younger mom,39,13,married,35,8.13,female,nonsmoker
+28,younger mom,39,10,not married,39,7.31,male,nonsmoker
+28,younger mom,38,8,married,0,7.56,female,nonsmoker
+28,younger mom,37,13,married,13,7.44,male,nonsmoker
+28,younger mom,39,20,married,35,7.06,female,nonsmoker
+28,younger mom,42,15,married,14,7.5,male,nonsmoker
+28,younger mom,39,12,not married,43,7.25,male,nonsmoker
+28,younger mom,39,14,married,33,8.56,female,nonsmoker
+28,younger mom,39,12,married,20,7.94,female,nonsmoker
+28,younger mom,40,11,not married,20,8.13,male,nonsmoker
+28,younger mom,39,12,married,19,7.06,male,nonsmoker
+28,younger mom,39,14,married,24,6.44,male,nonsmoker
+28,younger mom,37,11,married,18,5.81,male,nonsmoker
+28,younger mom,44,15,married,35,8.44,female,nonsmoker
+28,younger mom,37,5,not married,35,6.44,male,nonsmoker
+28,younger mom,38,11,not married,16,7.56,female,nonsmoker
+28,younger mom,37,13,not married,35,8.25,female,nonsmoker
+28,younger mom,40,16,married,20,6.38,female,nonsmoker
+28,younger mom,38,10,married,34,7.13,male,nonsmoker
+28,younger mom,39,15,married,33,5.56,female,nonsmoker
+28,younger mom,38,10,married,25,6.88,male,nonsmoker
+28,younger mom,40,15,married,32,7.75,female,nonsmoker
+28,younger mom,40,12,married,20,7.75,female,nonsmoker
+28,younger mom,41,10,married,30,8.13,male,nonsmoker
+28,younger mom,38,10,married,70,8.19,male,nonsmoker
+28,younger mom,38,12,married,41,8.5,male,nonsmoker
+28,younger mom,39,13,not married,34,5.69,female,nonsmoker
+28,younger mom,38,15,married,25,6.38,male,nonsmoker
+28,younger mom,40,12,married,35,8.25,male,smoker
+28,younger mom,39,16,married,18,7.44,female,smoker
+28,younger mom,41,11,not married,14,7,female,smoker
+28,younger mom,38,10,married,40,7.94,female,smoker
+28,younger mom,29,18,married,40,3.56,male,nonsmoker
+28,younger mom,35,14,married,25,6.25,male,nonsmoker
+28,younger mom,32,11,married,40,3.19,male,nonsmoker
+28,younger mom,36,14,not married,35,7.31,female,nonsmoker
+28,younger mom,35,6,married,30,6.13,female,nonsmoker
+28,younger mom,33,9,not married,20,4.06,male,smoker
+28,younger mom,31,8,not married,30,3.31,male,smoker
+29,younger mom,40,5,married,20,7.38,male,nonsmoker
+29,younger mom,39,15,married,38,7.88,female,nonsmoker
+29,younger mom,39,10,married,26,8.94,male,nonsmoker
+29,younger mom,40,9,not married,0,8.06,male,nonsmoker
+29,younger mom,41,14,married,30,7.69,male,nonsmoker
+29,younger mom,40,15,married,30,8.56,male,nonsmoker
+29,younger mom,39,10,married,20,7.13,female,nonsmoker
+29,younger mom,39,11,married,30,9.81,female,nonsmoker
+29,younger mom,40,16,not married,29,6.81,female,nonsmoker
+29,younger mom,41,15,married,50,8.31,male,nonsmoker
+29,younger mom,38,12,married,25,8.44,male,nonsmoker
+29,younger mom,37,15,married,45,6.94,male,nonsmoker
+29,younger mom,39,11,married,17,8.5,male,nonsmoker
+29,younger mom,38,14,married,36,7.88,female,nonsmoker
+29,younger mom,38,14,married,39,7.94,male,nonsmoker
+29,younger mom,39,12,married,30,7,female,nonsmoker
+29,younger mom,40,8,married,25,7.81,female,nonsmoker
+29,younger mom,39,14,married,30,5.38,male,nonsmoker
+29,younger mom,38,16,married,35,6.19,female,nonsmoker
+29,younger mom,39,11,married,28,7.88,female,nonsmoker
+29,younger mom,39,18,married,25,6.5,male,nonsmoker
+29,younger mom,38,17,married,55,7,female,nonsmoker
+29,younger mom,37,10,not married,40,7.13,female,nonsmoker
+29,younger mom,39,8,married,15,7.69,female,nonsmoker
+29,younger mom,41,13,married,34,9.56,male,nonsmoker
+29,younger mom,38,7,married,23,6.5,female,nonsmoker
+29,younger mom,38,14,married,20,7.44,female,nonsmoker
+29,younger mom,37,18,married,30,6.31,female,nonsmoker
+29,younger mom,44,12,married,51,8.5,male,nonsmoker
+29,younger mom,39,19,married,30,7.31,female,nonsmoker
+29,younger mom,37,13,not married,14,5,female,nonsmoker
+29,younger mom,38,10,married,55,5.44,male,nonsmoker
+29,younger mom,37,12,not married,12,6.31,female,nonsmoker
+29,younger mom,39,17,married,25,9.75,male,nonsmoker
+29,younger mom,39,15,married,24,8.25,female,nonsmoker
+29,younger mom,39,14,married,20,6.63,male,nonsmoker
+29,younger mom,41,10,married,35,7.56,female,nonsmoker
+29,younger mom,38,12,married,40,7.81,male,nonsmoker
+29,younger mom,40,10,married,20,6.81,female,nonsmoker
+29,younger mom,41,12,married,30,7.69,male,smoker
+29,younger mom,37,15,married,33,5.69,male,smoker
+29,younger mom,39,11,not married,45,8.69,male,smoker
+29,younger mom,35,15,married,13,5.44,female,nonsmoker
+29,younger mom,35,30,married,50,7.94,male,nonsmoker
+29,younger mom,36,14,married,25,7.38,female,nonsmoker
+29,younger mom,34,10,not married,20,6,male,nonsmoker
+29,younger mom,36,12,not married,30,6,female,nonsmoker
+29,younger mom,34,6,not married,25,4.88,male,smoker
+29,younger mom,35,10,not married,40,5.94,female,smoker
+30,younger mom,41,12,married,25,8.25,female,nonsmoker
+30,younger mom,39,15,married,19,6.06,male,nonsmoker
+30,younger mom,37,10,married,57,6.56,male,nonsmoker
+30,younger mom,42,12,married,29,8.19,male,nonsmoker
+30,younger mom,44,15,not married,40,8.63,female,nonsmoker
+30,younger mom,39,12,married,22,6.75,female,nonsmoker
+30,younger mom,37,10,not married,27,8.13,female,nonsmoker
+30,younger mom,39,12,married,25,5.81,male,nonsmoker
+30,younger mom,39,15,married,47,9.75,male,nonsmoker
+30,younger mom,39,10,married,28,7.63,male,nonsmoker
+30,younger mom,40,9,married,59,4.56,male,nonsmoker
+30,younger mom,43,11,not married,47,8.75,male,nonsmoker
+30,younger mom,42,15,married,40,7.13,female,nonsmoker
+30,younger mom,37,14,married,45,7.31,female,nonsmoker
+30,younger mom,37,12,married,23,5.63,female,nonsmoker
+30,younger mom,40,14,married,35,8.44,male,nonsmoker
+30,younger mom,39,11,married,21,7.88,male,nonsmoker
+30,younger mom,39,14,married,35,7.25,female,nonsmoker
+30,younger mom,39,10,not married,38,11.75,male,nonsmoker
+30,younger mom,39,10,married,43,6.88,female,nonsmoker
+30,younger mom,38,16,married,30,7.5,female,nonsmoker
+30,younger mom,40,10,not married,0,6.88,female,nonsmoker
+30,younger mom,43,12,married,30,7.63,male,nonsmoker
+30,younger mom,38,14,married,30,8.38,female,nonsmoker
+30,younger mom,39,13,married,50,7.56,female,nonsmoker
+30,younger mom,39,9,married,42,7.81,male,smoker
+30,younger mom,38,13,married,20,6.5,female,smoker
+30,younger mom,39,13,married,1,6.88,male,smoker
+30,younger mom,39,15,married,44,6.38,male,smoker
+30,younger mom,38,5,married,17,6,female,smoker
+30,younger mom,38,12,married,19,6.5,female,smoker
+30,younger mom,36,8,not married,30,7.25,female,nonsmoker
+30,younger mom,36,14,married,30,4.19,female,nonsmoker
+30,younger mom,36,11,not married,21,7.06,male,nonsmoker
+30,younger mom,34,15,not married,14,6.06,male,nonsmoker
+30,younger mom,35,10,married,20,6,female,nonsmoker
+30,younger mom,35,12,married,0,9.19,male,smoker
+31,younger mom,39,15,married,22,8.69,male,nonsmoker
+31,younger mom,37,11,married,45,8,male,nonsmoker
+31,younger mom,38,10,married,26,6.81,female,nonsmoker
+31,younger mom,38,15,married,44,6.56,male,nonsmoker
+31,younger mom,41,12,married,54,9.19,male,nonsmoker
+31,younger mom,38,10,married,38,7.44,female,nonsmoker
+31,younger mom,39,10,married,44,7.38,male,nonsmoker
+31,younger mom,37,10,married,40,7.81,male,nonsmoker
+31,younger mom,39,14,married,33,7.81,male,nonsmoker
+31,younger mom,39,12,married,34,7.88,male,nonsmoker
+31,younger mom,40,15,married,46,8,male,nonsmoker
+31,younger mom,38,20,not married,3,6.56,female,nonsmoker
+31,younger mom,37,9,married,41,6.13,female,nonsmoker
+31,younger mom,39,15,married,35,7.44,male,nonsmoker
+31,younger mom,41,15,married,28,7.63,female,nonsmoker
+31,younger mom,40,14,married,44,7.5,female,nonsmoker
+31,younger mom,37,11,married,34,6.31,female,nonsmoker
+31,younger mom,40,10,not married,12,5.25,male,nonsmoker
+31,younger mom,38,16,not married,20,4.75,female,nonsmoker
+31,younger mom,38,18,married,19,7.25,male,nonsmoker
+31,younger mom,41,14,married,40,8.13,female,nonsmoker
+31,younger mom,39,12,married,50,9.25,male,nonsmoker
+31,younger mom,37,12,married,37,8.06,female,nonsmoker
+31,younger mom,38,10,not married,35,6.63,female,nonsmoker
+31,younger mom,45,12,married,50,7.13,male,nonsmoker
+31,younger mom,39,15,married,30,6.38,female,nonsmoker
+31,younger mom,37,13,married,34,9.5,female,nonsmoker
+31,younger mom,41,7,married,14,7.13,female,nonsmoker
+31,younger mom,38,10,married,33,8.81,male,nonsmoker
+31,younger mom,39,12,married,25,7.88,male,nonsmoker
+31,younger mom,40,15,married,32,6.25,male,nonsmoker
+31,younger mom,40,10,married,45,8,female,nonsmoker
+31,younger mom,39,12,married,42,7.88,male,nonsmoker
+31,younger mom,37,13,married,30,10.38,male,nonsmoker
+31,younger mom,38,15,married,35,8.81,female,nonsmoker
+31,younger mom,37,12,married,29,6.5,female,nonsmoker
+31,younger mom,40,6,married,30,7,male,nonsmoker
+31,younger mom,40,12,married,22,8.19,male,nonsmoker
+31,younger mom,39,11,married,85,7.63,female,nonsmoker
+31,younger mom,40,16,married,37,7.19,female,nonsmoker
+31,younger mom,40,15,married,30,7.06,female,nonsmoker
+31,younger mom,40,14,not married,56,6,female,smoker
+31,younger mom,41,5,married,20,7.06,female,smoker
+31,younger mom,39,14,married,55,8.13,male,smoker
+31,younger mom,26,8,married,7,1.31,female,nonsmoker
+31,younger mom,30,10,married,20,2.88,female,nonsmoker
+31,younger mom,36,13,married,20,6,female,nonsmoker
+31,younger mom,34,9,married,31,5.94,female,nonsmoker
+31,younger mom,36,12,not married,34,5.25,female,nonsmoker
+31,younger mom,33,16,married,55,4.75,female,smoker
+31,younger mom,36,8,married,42,5.94,male,smoker
+32,younger mom,41,15,not married,28,4.75,female,nonsmoker
+32,younger mom,39,12,married,30,6.13,male,nonsmoker
+32,younger mom,39,14,married,55,9.38,male,nonsmoker
+32,younger mom,41,12,not married,21,7.13,male,nonsmoker
+32,younger mom,41,12,married,20,7.38,male,nonsmoker
+32,younger mom,40,11,married,43,7.44,female,nonsmoker
+32,younger mom,38,20,married,25,5.81,female,nonsmoker
+32,younger mom,41,12,married,32,9.13,female,nonsmoker
+32,younger mom,38,10,married,22,6.25,female,nonsmoker
+32,younger mom,40,14,married,26,8.5,female,nonsmoker
+32,younger mom,43,12,married,30,11.63,female,nonsmoker
+32,younger mom,38,6,married,27,6.75,female,nonsmoker
+32,younger mom,37,11,married,28,5.56,male,nonsmoker
+32,younger mom,37,12,not married,22,6,female,nonsmoker
+32,younger mom,40,10,married,10,6.69,male,nonsmoker
+32,younger mom,38,10,married,29,9.5,female,nonsmoker
+32,younger mom,38,10,married,42,8.88,male,nonsmoker
+32,younger mom,39,14,married,20,9.19,female,nonsmoker
+32,younger mom,39,18,married,45,9.31,male,nonsmoker
+32,younger mom,40,14,married,24,7.38,female,nonsmoker
+32,younger mom,39,12,married,22,8.88,male,nonsmoker
+32,younger mom,37,11,married,25,6.19,male,nonsmoker
+32,younger mom,37,10,married,48,8.81,male,nonsmoker
+32,younger mom,39,13,married,25,7.31,female,nonsmoker
+32,younger mom,40,15,married,16,7.38,male,nonsmoker
+32,younger mom,38,13,married,37,5,female,nonsmoker
+32,younger mom,39,10,married,35,9.25,male,nonsmoker
+32,younger mom,39,12,married,27,6.69,female,nonsmoker
+32,younger mom,37,8,not married,30,6.81,female,nonsmoker
+32,younger mom,33,13,married,35,3,female,nonsmoker
+32,younger mom,33,14,married,30,4.63,male,nonsmoker
+32,younger mom,33,9,married,22,5.56,male,nonsmoker
+32,younger mom,35,14,married,29,4.44,female,nonsmoker
+32,younger mom,26,13,married,36,1.44,female,nonsmoker
+32,younger mom,26,8,married,35,1.5,female,nonsmoker
+32,younger mom,33,10,married,60,5.06,male,nonsmoker
+32,younger mom,36,18,married,10,4.44,male,smoker
+33,younger mom,40,11,married,23,6.81,male,nonsmoker
+33,younger mom,39,12,married,15,8.81,male,nonsmoker
+33,younger mom,38,15,not married,60,6.56,male,nonsmoker
+33,younger mom,42,13,not married,3,6.75,male,nonsmoker
+33,younger mom,37,9,not married,35,7.94,female,nonsmoker
+33,younger mom,38,11,married,26,7.31,female,nonsmoker
+33,younger mom,42,24,married,20,6.44,female,nonsmoker
+33,younger mom,37,13,married,15,3.94,female,nonsmoker
+33,younger mom,39,16,not married,28,8.06,female,nonsmoker
+33,younger mom,39,12,married,25,9.25,male,nonsmoker
+33,younger mom,39,14,married,0,7.38,female,nonsmoker
+33,younger mom,39,13,married,41,7.38,male,nonsmoker
+33,younger mom,39,15,married,44,7.56,male,nonsmoker
+33,younger mom,39,12,married,0,8.81,male,nonsmoker
+33,younger mom,38,10,married,20,6,male,nonsmoker
+33,younger mom,38,12,married,17,6.88,female,nonsmoker
+33,younger mom,39,10,married,40,8.06,male,nonsmoker
+33,younger mom,38,10,married,24,6.69,female,nonsmoker
+33,younger mom,38,18,married,6,7.06,female,nonsmoker
+33,younger mom,38,13,married,18,6.88,male,nonsmoker
+33,younger mom,37,13,married,21,9.63,male,nonsmoker
+33,younger mom,37,14,married,24,7.88,male,nonsmoker
+33,younger mom,41,15,married,30,8.88,female,nonsmoker
+33,younger mom,37,14,married,0,7.81,male,nonsmoker
+33,younger mom,41,16,not married,41,7.38,female,nonsmoker
+33,younger mom,37,15,married,30,7.5,male,nonsmoker
+33,younger mom,39,30,married,0,7.31,male,nonsmoker
+33,younger mom,37,10,married,35,8.25,female,nonsmoker
+33,younger mom,39,10,married,23,6.56,male,nonsmoker
+33,younger mom,40,12,not married,36,8.81,female,nonsmoker
+33,younger mom,39,12,married,0,8.31,female,nonsmoker
+33,younger mom,38,14,married,30,5.88,male,nonsmoker
+33,younger mom,38,13,married,18,8.63,male,nonsmoker
+33,younger mom,40,15,married,35,9.31,male,nonsmoker
+33,younger mom,40,25,not married,25,7.88,male,nonsmoker
+33,younger mom,40,13,married,77,9.63,female,nonsmoker
+33,younger mom,40,15,married,45,10.06,female,nonsmoker
+33,younger mom,38,16,married,60,7.13,male,nonsmoker
+33,younger mom,40,16,married,30,6.81,male,nonsmoker
+33,younger mom,40,11,married,0,8.19,male,smoker
+33,younger mom,43,13,married,25,9.13,male,smoker
+33,younger mom,35,10,not married,20,5.63,female,nonsmoker
+33,younger mom,36,13,married,23,6.56,female,nonsmoker
+33,younger mom,36,11,married,15,6.31,male,smoker
+34,younger mom,41,15,married,33,7.13,male,nonsmoker
+34,younger mom,41,10,not married,35,8.19,female,nonsmoker
+34,younger mom,39,13,married,30,8,male,nonsmoker
+34,younger mom,40,12,married,35,8.63,female,nonsmoker
+34,younger mom,37,15,married,75,6.69,female,nonsmoker
+34,younger mom,39,15,married,20,6.38,male,nonsmoker
+34,younger mom,38,13,married,32,8.5,female,nonsmoker
+34,younger mom,37,20,married,60,6.81,female,nonsmoker
+34,younger mom,40,15,married,42,7.88,female,nonsmoker
+34,younger mom,39,13,married,30,7.56,male,nonsmoker
+34,younger mom,38,11,married,23,7.25,male,nonsmoker
+34,younger mom,38,11,married,40,6.88,male,nonsmoker
+34,younger mom,40,13,married,36,8.5,male,nonsmoker
+34,younger mom,45,10,married,34,8.5,male,nonsmoker
+34,younger mom,37,18,married,0,4.75,female,nonsmoker
+34,younger mom,37,13,married,30,8.75,male,nonsmoker
+34,younger mom,39,10,married,40,6.44,female,nonsmoker
+34,younger mom,38,14,married,15,7,female,nonsmoker
+34,younger mom,37,10,married,25,7.25,female,nonsmoker
+34,younger mom,40,13,married,25,8.25,male,nonsmoker
+34,younger mom,37,14,married,36,8.5,male,nonsmoker
+34,younger mom,40,15,married,20,7.44,male,nonsmoker
+34,younger mom,37,5,married,25,7.75,female,nonsmoker
+34,younger mom,41,15,married,28,8.5,female,nonsmoker
+34,younger mom,39,12,married,23,8.13,male,nonsmoker
+34,younger mom,37,15,married,20,7.25,male,nonsmoker
+34,younger mom,39,12,married,57,9.69,male,nonsmoker
+34,younger mom,40,18,married,0,6.31,female,nonsmoker
+34,younger mom,42,20,married,40,6.75,male,nonsmoker
+34,younger mom,37,17,married,35,6.88,female,nonsmoker
+34,younger mom,44,12,married,28,8.75,male,nonsmoker
+34,younger mom,40,10,married,22,9.31,male,nonsmoker
+34,younger mom,39,16,married,15,7.88,female,nonsmoker
+34,younger mom,40,16,married,38,7.63,female,nonsmoker
+34,younger mom,41,10,married,33,8.31,female,nonsmoker
+34,younger mom,41,14,married,40,7.88,female,nonsmoker
+34,younger mom,39,10,married,44,7.56,female,nonsmoker
+34,younger mom,38,8,married,60,6.19,female,nonsmoker
+34,younger mom,39,9,married,34,7.94,female,nonsmoker
+34,younger mom,34,10,married,29,7.19,male,nonsmoker
+34,younger mom,36,7,married,22,6.31,male,nonsmoker
+34,younger mom,34,10,married,15,4.69,female,nonsmoker
+34,younger mom,33,17,not married,14,3.81,female,nonsmoker
+34,younger mom,28,20,married,21,2.88,male,nonsmoker
+35,younger mom,38,16,married,2,10.13,male,nonsmoker
+35,younger mom,39,12,married,20,7.06,female,nonsmoker
+35,younger mom,40,12,married,43,8.56,male,nonsmoker
+35,younger mom,39,14,married,30,6.94,female,nonsmoker
+35,younger mom,39,16,married,52,8.81,male,nonsmoker
+35,younger mom,40,14,married,15,8.44,female,nonsmoker
+35,younger mom,39,3,not married,10,8.13,male,nonsmoker
+35,younger mom,37,14,married,30,7.63,male,nonsmoker
+35,younger mom,38,12,married,50,8.44,male,nonsmoker
+35,younger mom,40,12,married,29,8.88,male,nonsmoker
+35,younger mom,39,10,married,34,8.25,female,nonsmoker
+35,younger mom,41,11,married,22,7.88,male,nonsmoker
+35,younger mom,40,16,married,32,7.31,female,nonsmoker
+35,younger mom,40,14,married,35,7.88,male,nonsmoker
+35,younger mom,38,17,married,55,7.5,female,nonsmoker
+35,younger mom,40,18,not married,20,5.19,female,nonsmoker
+35,younger mom,38,14,married,35,8.06,male,nonsmoker
+35,younger mom,39,18,not married,20,8.94,male,nonsmoker
+35,younger mom,39,13,married,30,7.69,male,nonsmoker
+35,younger mom,38,12,married,30,6.63,female,nonsmoker
+35,younger mom,38,10,married,50,7.63,male,nonsmoker
+35,younger mom,39,12,married,30,7.56,male,nonsmoker
+35,younger mom,38,15,married,20,6.38,female,nonsmoker
+35,younger mom,37,20,married,18,6.25,female,nonsmoker
+35,younger mom,38,8,married,10,7.13,female,nonsmoker
+35,younger mom,39,10,married,0,7.94,female,nonsmoker
+35,younger mom,38,10,married,20,6.44,female,smoker
+35,younger mom,37,10,married,25,5.63,male,smoker
+35,younger mom,35,12,not married,13,6.5,female,nonsmoker
+35,younger mom,36,16,married,32,6.44,female,nonsmoker
+35,younger mom,36,12,married,24,8.69,male,nonsmoker
+35,younger mom,36,11,married,16,5.63,male,nonsmoker
+35,younger mom,28,8,married,15,2.25,male,nonsmoker
+35,younger mom,36,18,married,25,6.75,male,nonsmoker
+35,younger mom,28,6,not married,29,1.63,female,nonsmoker
+36,younger mom,41,4,not married,10,8.88,female,nonsmoker
+36,younger mom,39,13,married,31,7.06,female,nonsmoker
+36,younger mom,37,14,married,40,8.81,male,nonsmoker
+36,younger mom,41,4,married,13,7.56,female,nonsmoker
+36,younger mom,38,6,married,47,9.19,male,nonsmoker
+36,younger mom,37,22,married,28,6.19,female,nonsmoker
+36,younger mom,38,18,married,24,5.38,female,nonsmoker
+36,younger mom,38,26,married,20,7.19,female,nonsmoker
+36,younger mom,44,12,married,35,6.75,female,nonsmoker
+36,younger mom,40,13,not married,50,7.38,male,nonsmoker
+36,younger mom,39,15,married,20,6.06,female,nonsmoker
+36,younger mom,37,10,married,20,6.88,male,nonsmoker
+36,younger mom,38,11,married,20,7,male,nonsmoker
+36,younger mom,39,12,married,11,8.56,male,nonsmoker
+36,younger mom,39,20,married,23,8.19,male,nonsmoker
+36,younger mom,38,15,married,40,7,female,nonsmoker
+36,younger mom,40,11,married,40,8.13,female,nonsmoker
+36,younger mom,38,12,married,43,9.13,female,nonsmoker
+36,younger mom,39,11,married,25,7.81,female,nonsmoker
+36,younger mom,38,11,married,7,7,female,nonsmoker
+36,younger mom,38,18,married,37,8.25,male,nonsmoker
+36,younger mom,39,14,married,2,8,male,nonsmoker
+36,younger mom,39,5,married,35,7.69,male,nonsmoker
+36,younger mom,38,11,married,17,7.06,female,nonsmoker
+36,younger mom,39,14,not married,56,7.06,male,smoker
+36,younger mom,39,5,not married,25,5.38,female,smoker
+36,younger mom,38,4,not married,25,6.88,male,smoker
+36,younger mom,31,5,married,40,3.25,male,nonsmoker
+36,younger mom,30,10,married,65,4,female,nonsmoker
+36,younger mom,36,18,married,25,4.13,female,nonsmoker
+37,mature mom,38,5,married,45,5.13,male,nonsmoker
+37,mature mom,41,17,married,45,9.88,male,nonsmoker
+37,mature mom,40,13,married,23,6.19,female,nonsmoker
+37,mature mom,41,9,not married,30,7.81,female,nonsmoker
+37,mature mom,38,12,married,70,8.75,male,nonsmoker
+37,mature mom,39,12,married,20,9.31,male,nonsmoker
+37,mature mom,41,16,married,38,7,female,nonsmoker
+37,mature mom,38,18,not married,29,6.69,female,nonsmoker
+37,mature mom,40,14,married,35,8.63,male,nonsmoker
+37,mature mom,40,10,married,35,8.5,male,nonsmoker
+37,mature mom,44,10,married,25,8.94,male,nonsmoker
+37,mature mom,41,17,married,18,6.31,male,nonsmoker
+37,mature mom,40,15,married,17,7.25,female,nonsmoker
+37,mature mom,39,10,married,10,7,female,nonsmoker
+37,mature mom,38,13,married,40,7.94,male,nonsmoker
+37,mature mom,40,12,married,29,6.25,female,nonsmoker
+37,mature mom,41,16,married,36,8.31,female,nonsmoker
+37,mature mom,38,10,married,23,8.5,female,nonsmoker
+37,mature mom,39,14,married,30,8.38,male,nonsmoker
+37,mature mom,39,5,not married,20,8.19,female,smoker
+37,mature mom,35,15,married,40,4.94,male,nonsmoker
+37,mature mom,35,20,married,37,5.94,male,nonsmoker
+37,mature mom,35,9,married,45,4.31,male,nonsmoker
+37,mature mom,26,5,married,25,3.63,male,nonsmoker
+38,mature mom,40,11,married,44,8.75,male,nonsmoker
+38,mature mom,39,16,married,30,7,male,nonsmoker
+38,mature mom,38,14,married,65,6.25,female,nonsmoker
+38,mature mom,39,15,married,50,8.94,female,nonsmoker
+38,mature mom,38,15,married,13,8.38,male,nonsmoker
+38,mature mom,42,13,married,20,7.56,female,nonsmoker
+38,mature mom,41,15,married,37,7.75,female,nonsmoker
+38,mature mom,41,14,married,20,7.25,male,nonsmoker
+38,mature mom,41,15,married,35,10.13,female,nonsmoker
+38,mature mom,20,5,not married,30,1.38,female,nonsmoker
+38,mature mom,35,15,not married,34,5.5,female,nonsmoker
+38,mature mom,32,10,not married,16,2.19,female,smoker
+39,mature mom,39,11,married,30,8.06,female,nonsmoker
+39,mature mom,40,12,married,27,7.81,female,nonsmoker
+39,mature mom,38,17,not married,40,7.5,female,nonsmoker
+39,mature mom,39,20,married,50,7.19,female,nonsmoker
+39,mature mom,38,16,not married,25,6.06,female,smoker
+39,mature mom,38,10,not married,35,6.75,male,smoker
+39,mature mom,33,6,not married,24,5.5,male,smoker
+40,mature mom,38,13,married,38,7.31,male,nonsmoker
+40,mature mom,41,8,not married,29,9.88,male,nonsmoker
+40,mature mom,41,11,married,25,9.19,male,nonsmoker
+40,mature mom,43,12,married,27,8.13,male,nonsmoker
+40,mature mom,40,13,married,30,9,female,nonsmoker
+40,mature mom,37,30,married,15,7.44,female,nonsmoker
+40,mature mom,35,12,married,35,5.69,male,nonsmoker
+40,mature mom,36,13,not married,23,7.81,female,nonsmoker
+41,mature mom,41,15,married,28,6.38,male,nonsmoker
+41,mature mom,37,12,not married,61,7.44,male,nonsmoker
+41,mature mom,38,11,not married,12,5.88,female,nonsmoker
+41,mature mom,39,14,married,10,7.69,male,nonsmoker
+41,mature mom,39,12,married,20,7.56,female,nonsmoker
+41,mature mom,39,15,married,40,6.56,male,nonsmoker
+41,mature mom,33,13,married,0,5.69,female,nonsmoker
+42,mature mom,40,10,married,26,8.44,male,nonsmoker
+42,mature mom,38,18,married,20,6.19,female,nonsmoker
+45,mature mom,40,15,married,32,6.94,female,nonsmoker
+46,mature mom,31,8,married,25,4.56,female,nonsmoker
+50,mature mom,39,14,married,23,7.13,female,nonsmoker
